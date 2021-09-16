@@ -1,0 +1,15 @@
+*.png
+
+# don't include ships from https://www.reddit.com/r/Highfleet/comments/pog3on/my_highfleet_ship_archive_til_today/
+Archer.seria
+Buffalo.seria
+Drake.seria
+Firefly.seria
+Harpy.seria
+Hornet.seria
+Orca.seria
+Pilgrim.seria
+Scimitar.seria
+Shortbow.seria
+v4.210911 F.seria
+Vulture.seria
